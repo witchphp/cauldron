@@ -1,8 +1,8 @@
 {
-  "name": "roots/sage-lib",
+  "name": "witch/cauldron",
   "license": "MIT",
-  "description": "Library files for Sage Starter Theme",
-  "homepage": "https://roots.io/sage/",
+  "description": "Library files for Mage",
+  "homepage": "https://flowtheory.ca",
   "authors": [
     {
       "name": "QWp6t",
@@ -19,8 +19,7 @@
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage-lib/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/witchphp/cauldron/issues",
   },
   "autoload": {
     "psr-4": {
