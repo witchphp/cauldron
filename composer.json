@@ -19,7 +19,7 @@
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/witchphp/cauldron/issues",
+    "issues": "https://github.com/witchphp/cauldron/issues"
   },
   "autoload": {
     "psr-4": {
