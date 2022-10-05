@@ -2,7 +2,7 @@
   "name": "witch/cauldron",
   "license": "MIT",
   "description": "Library files for Mage",
-  "homepage": "https://flowtheory.ca",
+  "homepage": "https://marc.boisvertdupras.com",
   "authors": [
     {
       "name": "QWp6t",
@@ -13,6 +13,11 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Marc Boisvert-Dupras",
+      "email": "marcboisvert.dupras@outlook.com",
+      "homepage": "https://marc.boisvertdupras.com"
     }
   ],
   "keywords": [
@@ -29,8 +34,8 @@
   "require": {
     "php": "^7.2.5 || ^8",
     "composer/installers": "~1.0",
-    "illuminate/view": "~7.0",
-    "illuminate/config": "~7.0"
+    "illuminate/view": "^9.0",
+    "illuminate/config": "^9.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "~3.5"
